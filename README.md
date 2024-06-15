@@ -1,8 +1,4 @@
 Name:Harshal Atkar
-id:
-domain:web development
-duration:
-mentor name:shravni gouni
 description:To-Do List App: A Simple Task Manager
 
 The To-Do List app is a lightweight web application designed to help users organize their tasks efficiently. Built with HTML, CSS, and JavaScript, this app allows users to create, edit, and delete tasks seamlessly.
